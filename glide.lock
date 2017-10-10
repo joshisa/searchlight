@@ -1,5 +1,5 @@
 hash: c7656f121cf7d86a1584cb2e8bf657178fd922558d9a96bf2502f50280e731c0
-updated: 2018-01-27T23:37:52.837169947-08:00
+updated: 2018-01-28T01:01:45.421876453-08:00
 imports:
 - name: bitbucket.org/ww/goautoneg
   version: 75cd24fc2f2c2a2088577d12123ddee5f54e0675
@@ -788,6 +788,7 @@ imports:
   - util/flowcontrol
   - util/homedir
   - util/integer
+  - util/workqueue
 - name: k8s.io/kube-openapi
   version: 39a7bf85c140f972372c2a0d1ee40adbf0c8bfe1
   subpackages:
